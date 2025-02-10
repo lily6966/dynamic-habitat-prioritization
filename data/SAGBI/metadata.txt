@@ -1,0 +1,73 @@
+sagbi_unmod
+ISO-19139 Metadata
+Metadata Information:
+Metadata language:
+Metadata character set: utf8
+
+Last update: 2018-12-06
+
+Scope of the data described by the metadata: dataset
+Scope name: dataset
+
+Name of the metadata standard used: ISO 19139 Geographic Information - Metadata - Implementation Specification
+Version of the metadata standard: 2007
+
+Resource Identification Information:
+Citation:
+Title: sagbi_unmod
+
+Presentation format: mapDigital
+
+Descriptive keywords - :
+Keywords: Water, Soil, do_not_remove_this_tag_a1603251580322, do_not_remove_this_tag_1617110835605
+
+Descriptive keywords - :
+Keywords: Water, Soil, do_not_remove_this_tag_a1603251580322, do_not_remove_this_tag_1617110835605
+
+Descriptive keywords - :
+Keywords: Water, Soil, do_not_remove_this_tag_a1603251580322, do_not_remove_this_tag_1617110835605
+
+Descriptive keywords - :
+Keywords: Water, Soil, do_not_remove_this_tag_a1603251580322, do_not_remove_this_tag_1617110835605
+
+Abstract:
+
+Purpose:
+ The Soil Agricultural Groundwater Banking Index (SAGBI) is a suitability index for groundwater recharge on agricultural land. The SAGBI is based on five major factors that are critical to successful agricultural groundwater banking: deep percolation, root zone residence time, topography, chemical limitations, and soil surface condition. 
+
+Dataset language: eng
+Dataset character set: utf8
+
+Spatial representation type: vector
+
+Processing environment: Version 6.2 (Build 9200) ; Esri ArcGIS 10.5.0.6491
+
+Extent:
+Geographic extent:
+Bounding rectangle:
+Extent contains the resource: true
+West longitude: -123.931377
+East longitude: -113.813598
+North latitude: 42.033161
+South latitude: 32.441247
+
+Spatial Representation - Vector:
+Level of topology for this dataset: geometryOnly
+Geometric objects:
+Object type: composite
+Object count: 189289
+
+Reference System Information:
+Reference system identifier:
+Value: 3310
+
+Code space: EPSG
+Version: 6.8(9.2.0)
+
+Distribution Information:
+Format:
+Format name: Shapefile
+Format version:
+
+Transfer options:
+Transfer size: 451.689
